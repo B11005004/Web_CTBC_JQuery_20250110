@@ -35,3 +35,10 @@ p,h3{
 .btn:hover{
     background: #5c5568;
 }
+
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: #fc3;
+}
