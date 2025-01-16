@@ -74,3 +74,13 @@
 .slider.slider.active h1{
     display: none;
 }
+
+.slider p{
+    display: none;
+}
+.slider.slider.active p{
+    display: block;
+    color: beige;
+    font-size: 36px;
+    text-align: center;
+}
